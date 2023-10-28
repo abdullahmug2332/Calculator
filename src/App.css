@@ -1,0 +1,80 @@
+
+.calculator{
+  width: 35%;
+  height: 500px;
+  background-color: rgb(35, 34, 34);
+  position: relative;
+  left: 33%;
+  border-radius: 20px;
+  box-shadow: 2px 10px 30px 2px rgb(61, 59, 59);
+}
+input{
+  padding: 18px;
+  width: 430px;
+  margin-bottom: 10px;
+  font-size: 35px;
+  text-align: center;
+}
+#inputtxt{
+  width: 439px;
+  border-radius: 4px;
+}
+
+h1{
+  text-align: center;
+  padding: 10px;
+}
+.btn{
+  padding: 30px;
+  padding-top: 28px;
+  padding-right: 38px;
+  padding-right: 30px;
+  padding-left: 30px;
+  width: 20%;
+  height: 100px;
+  border-radius: 100px;
+  position: relative;
+  left: 32px;
+  font-size: 35px;
+  background-color: rgb(241, 221, 42);
+  color: white;
+  margin-right: 9px;
+  margin-bottom: 2px;
+  border: 0px;
+}
+.btn4{
+  padding: 30px;
+  padding-top: 22px;
+  padding-right: 38px;
+  padding-right: 40px;
+  padding-left: 38px;
+  width: 20%;
+  height: 100px;
+  border-radius: 100px;
+  position: relative;
+  left: 32px;
+  font-size: 35px;
+  background-color: rgb(241, 221, 42);
+  color: white;
+  margin-right: 9px;
+  margin-bottom: 2px;
+  border: 0px;
+}
+.btn:hover{
+  background-color: rgba(238, 211, 78, 0.685);
+}
+body{
+  background-color: #f7df5a;
+}
+.btnper{
+padding-right: 30px;
+padding-left: 30px;
+}
+.btnC{
+  padding-right: 30px;
+  padding-left: 30px;
+  }
+.btnadd{
+  padding-right: 30px;
+padding-left: 30px;
+}
